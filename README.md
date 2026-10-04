@@ -35,3 +35,7 @@ load scaling are unchanged, so LuCI needs no modification.
 
 Build the `procd` package with the matching OpenWrt SDK
 (`openwrt-sdk-25.12.3-*`, target x86/64) and install the resulting package.
+
+## License
+
+LGPL-2.1 — same as upstream [procd](https://git.openwrt.org/project/procd.git); this repository is a modified copy of it. See `LICENSE`.
