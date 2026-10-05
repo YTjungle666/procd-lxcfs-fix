@@ -1,5 +1,7 @@
 # procd-lxcfs-fix
 
+> **Archived — content merged:** see [YTjungle666/ytwrt-display-fix](https://github.com/YTjungle666/ytwrt-display-fix) (`files/procd/system.c`, `patches/procd-system-info-procfs.patch`). Upstream PR: https://github.com/openwrt/procd/pull/52
+
 Local patch for OpenWrt [procd](https://git.openwrt.org/project/procd.git):
 make `ubus call system info` report container-correct values under LXC/LXCFS.
 
